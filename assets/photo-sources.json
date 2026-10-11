@@ -1,0 +1,748 @@
+[
+  {
+    "id": 1,
+    "image": "assets/products/p01.webp",
+    "imageSourceUrl": "https://www.sugoimart.com/cdn/shop/articles/mcdonalds-big-mac-fries.webp?v=1748939129",
+    "sourcePageUrl": "https://www.sugoimart.com/blogs/sugoi-mart-blog/us-vs-japan-mcdonalds",
+    "imageNote": "",
+    "credit": "Sugoi Mart / McDonald's meal photograph",
+    "license": "Editorial photography / copyright holder",
+    "licenseUrl": "",
+    "dimensions": [
+      900,
+      659
+    ],
+    "photoAlt": "Комбо Big Mac: бургер, картофель фри и напиток McDonald’s"
+  },
+  {
+    "id": 2,
+    "image": "assets/products/p02.webp",
+    "imageSourceUrl": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/article/Apple-AirPods-5-hero-260909_big.jpg.large.jpg",
+    "sourcePageUrl": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+    "imageNote": "",
+    "credit": "Apple",
+    "license": "Official product photograph / manufacturer copyright",
+    "licenseUrl": "",
+    "dimensions": [
+      900,
+      600
+    ],
+    "photoAlt": "AirPods 5 с зарядным футляром"
+  },
+  {
+    "id": 3,
+    "image": "assets/products/p03.webp",
+    "imageSourceUrl": "https://www.apple.com/newsroom/images/2025/09/apple-debuts-iphone-17/article/Apple-iPhone-17-hero-250909_inline.jpg.large.jpg",
+    "sourcePageUrl": "https://www.apple.com/newsroom/2025/09/apple-debuts-iphone-17/",
+    "imageNote": "",
+    "credit": "Apple",
+    "license": "Official product photograph / manufacturer copyright",
+    "licenseUrl": "",
+    "dimensions": [
+      643,
+      900
+    ],
+    "photoAlt": "iPhone 17: вид спереди и сзади"
+  },
+  {
+    "id": 4,
+    "image": "assets/products/p04.webp",
+    "imageSourceUrl": "https://image-us.samsung.com/us/smartphones/galaxy-s26-ultra/images/galaxy-s26-ultra-features-colors-cobalt-violet.jpg",
+    "sourcePageUrl": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/",
+    "imageNote": "На фото Galaxy S26 Ultra; S27 Ultra пока не представлен.",
+    "credit": "Samsung",
+    "license": "Official product photograph / manufacturer copyright",
+    "licenseUrl": "",
+    "dimensions": [
+      496,
+      538
+    ],
+    "photoAlt": "Galaxy S26 Ultra в цвете Cobalt Violet — изображение для будущего S27 Ultra"
+  },
+  {
+    "id": 5,
+    "image": "assets/products/p05.webp",
+    "imageSourceUrl": "https://www.apple.com/newsroom/images/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/article/Apple-iPhone-18-Pro-2up-260909_inline.jpg.large.jpg",
+    "sourcePageUrl": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+    "imageNote": "",
+    "credit": "Apple",
+    "license": "Official product photograph / manufacturer copyright",
+    "licenseUrl": "",
+    "dimensions": [
+      642,
+      900
+    ],
+    "photoAlt": "iPhone 18 Pro и iPhone 18 Pro Max в цвете Burgundy"
+  },
+  {
+    "id": 6,
+    "image": "assets/products/p06.webp",
+    "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/PlayStation_5_Pro_no_disc_drive.jpg/960px-PlayStation_5_Pro_no_disc_drive.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:PlayStation_5_Pro_no_disc_drive.jpg",
+    "imageNote": "",
+    "credit": "BeatEmUps",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "dimensions": [
+      640,
+      900
+    ],
+    "photoAlt": "Консоль PlayStation 5 Pro без дисковода"
+  },
+  {
+    "id": 7,
+    "image": "assets/products/p07.webp",
+    "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Steam_Deck_%28front%29.jpg/960px-Steam_Deck_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Steam_Deck_(front).jpg",
+    "imageNote": "На фото реальный Steam Deck LCD.",
+    "credit": "Liam Dawe/GamingOnLinux",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "dimensions": [
+      900,
+      356
+    ],
+    "photoAlt": "Портативная консоль Steam Deck"
+  },
+  {
+    "id": 8,
+    "image": "assets/products/p08.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Rolex-Submariner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Rolex-Submariner.jpg",
+    "imageNote": "",
+    "credit": "FrankWilliams",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "dimensions": [
+      550,
+      826
+    ],
+    "photoAlt": "Часы Rolex Submariner Date"
+  },
+  {
+    "id": 9,
+    "image": "assets/products/p09.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Humanitarian_Aid_to_Pakistan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Humanitarian_Aid_to_Pakistan.jpg",
+    "imageNote": "Фотография гуманитарной помощи — иллюстрация пожертвования.",
+    "credit": "Tech. Sgt. Mike Buytas",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "dimensions": [
+      720,
+      522
+    ],
+    "photoAlt": "Гуманитарная помощь детям"
+  },
+  {
+    "id": 10,
+    "image": "assets/products/p10.webp",
+    "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/BMW_X5_%28G05%29_China_%2827%29.jpg/960px-BMW_X5_%28G05%29_China_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:BMW_X5_(G05)_China_(27).jpg",
+    "imageNote": "",
+    "credit": "Dinkun Chen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "dimensions": [
+      900,
+      543
+    ],
+    "photoAlt": "BMW X5 поколения G05"
+  },
+  {
+    "id": 11,
+    "image": "assets/products/p11.webp",
+    "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Lexus_LX_600_2023_001.jpg/960px-Lexus_LX_600_2023_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Lexus_LX_600_2023_001.jpg",
+    "imageNote": "",
+    "credit": "毕明明",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "dimensions": [
+      900,
+      525
+    ],
+    "photoAlt": "Lexus LX 600 F Sport"
+  },
+  {
+    "id": 12,
+    "image": "assets/products/p12.webp",
+    "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/A_drone_shot_of_completed_BOXABL_Casitas.jpg/960px-A_drone_shot_of_completed_BOXABL_Casitas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:A_drone_shot_of_completed_BOXABL_Casitas.jpg",
+    "imageNote": "BOXABL Casita — модульный дом; Tesla его не производит. $50 000 — условная цена в игре.",
+    "credit": "GrowTheWorld9",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "dimensions": [
+      900,
+      506
+    ],
+    "photoAlt": "Настоящие модульные дома BOXABL Casita у производителя"
+  },
+  {
+    "id": 13,
+    "image": "assets/products/p13.webp",
+    "imageSourceUrl": "https://unsplash.com/photos/y3_AHHrxUBY",
+    "sourcePageUrl": "https://unsplash.com/photos/y3_AHHrxUBY",
+    "imageNote": "Реальная современная вилла; дом в игре условный.",
+    "credit": "John Fornander",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "photoAlt": "Современная вилла с бассейном"
+  },
+  {
+    "id": 14,
+    "image": "assets/products/p14.webp",
+    "imageSourceUrl": "https://www.antalyamimarlik.com.tr/tema/genel/uploads/projeler/diger/rixos-belek2.jpg",
+    "sourcePageUrl": "https://www.antalyamimarlik.com.tr/proje/rixos-premium-belek.html",
+    "imageNote": "Rixos Premium Belek, Анталья. Конкретный номер и тариф условные.",
+    "credit": "Antalya Mimarlık / Rixos Premium Belek",
+    "license": "Property photography / copyright holder",
+    "licenseUrl": "",
+    "dimensions": [
+      900,
+      600
+    ],
+    "photoAlt": "Rixos Premium Belek: здание отеля и бассейн"
+  },
+  {
+    "id": 15,
+    "image": "assets/products/p15.webp",
+    "imageSourceUrl": "https://assets.hermes.com/is/image/hermesproduct/662210HD87_worn_1?size=3000,3000&extend=0,0,0,0&align=0,0&$product_item_grid_g$&wid=800&hei=800",
+    "sourcePageUrl": "https://www.hermes.com/us/en/category/men/ready-wear/",
+    "imageNote": "Образ Hermès; комплект одежды в игре составлен условно.",
+    "credit": "Hermès",
+    "license": "Official product photograph / manufacturer copyright",
+    "licenseUrl": "",
+    "dimensions": [
+      800,
+      800
+    ],
+    "photoAlt": "Мужской образ Hermès из коллекции ready-to-wear"
+  },
+  {
+    "id": 16,
+    "image": "assets/products/p16.webp",
+    "imageSourceUrl": "https://www.apple.com/newsroom/images/2025/09/introducing-apple-watch-ultra-3/article/Apple-Watch-Ultra-3-hero-250909_big.jpg.large.jpg",
+    "sourcePageUrl": "https://www.apple.com/newsroom/2025/09/introducing-apple-watch-ultra-3/",
+    "imageNote": "",
+    "credit": "Apple",
+    "license": "Official product photograph / manufacturer copyright",
+    "licenseUrl": "",
+    "dimensions": [
+      900,
+      506
+    ],
+    "photoAlt": "Apple Watch Ultra 3"
+  },
+  {
+    "id": 17,
+    "image": "assets/products/p17.webp",
+    "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Tesla_Model_Y_2025_at_Santana_Row_dllu_%28cropped%29.jpg/960px-Tesla_Model_Y_2025_at_Santana_Row_dllu_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_2025_at_Santana_Row_dllu_(cropped).jpg",
+    "imageNote": "",
+    "credit": "Dllu",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "dimensions": [
+      900,
+      534
+    ],
+    "photoAlt": "Tesla Model Y обновленного поколения"
+  },
+  {
+    "id": 18,
+    "image": "assets/products/p18.webp",
+    "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Crew_Dragon_at_the_ISS_for_Demo_Mission_1_%28cropped%29.jpg/960px-Crew_Dragon_at_the_ISS_for_Demo_Mission_1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Crew_Dragon_at_the_ISS_for_Demo_Mission_1_(cropped).jpg",
+    "imageNote": "Crew Dragon в космосе — иллюстрация частного космического тура.",
+    "credit": "NASA",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "dimensions": [
+      900,
+      675
+    ],
+    "photoAlt": "Капсула SpaceX Crew Dragon у МКС"
+  },
+  {
+    "id": 19,
+    "image": "assets/products/p19.webp",
+    "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/2a/Burj_Al_Arab%2C_Dubai%2C_by_Joi_Ito_Dec2007.jpg/960px-Burj_Al_Arab%2C_Dubai%2C_by_Joi_Ito_Dec2007.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourcePageUrl": "https://en.wikipedia.org/wiki/File:Burj_Al_Arab,_Dubai,_by_Joi_Ito_Dec2007.jpg",
+    "imageNote": "",
+    "credit": "Joi Ito",
+    "license": "CC-BY-2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "dimensions": [
+      643,
+      900
+    ],
+    "photoAlt": "Отель Jumeirah Burj Al Arab в Дубае"
+  },
+  {
+    "id": 20,
+    "image": "assets/products/p20.webp",
+    "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2025_Mercedes-Benz_G_63_AMG_front.jpg/960px-2025_Mercedes-Benz_G_63_AMG_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:2025_Mercedes-Benz_G_63_AMG_front.jpg",
+    "imageNote": "На фото AMG G 63 2025. Версия 2027 доступна; изображение того же поколения.",
+    "credit": "LuvsMG481",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "dimensions": [
+      900,
+      463
+    ],
+    "photoAlt": "Mercedes-AMG G 63 2025 — автомобиль того же поколения, что модель 2027"
+  },
+  {
+    "id": 21,
+    "image": "assets/products/p21.webp",
+    "imageSourceUrl": "https://www.coolspaphuket.com/images/coolspa/phuket-spa-resort-luxury-pool-villa-treatments-rooms.jpg",
+    "sourcePageUrl": "https://www.coolspaphuket.com/phuket-luxury-spa-treatments/",
+    "imageNote": "Cool Spa at Sri Panwa, Пхукет. Сеанс и цена в игре условные.",
+    "credit": "Cool Spa at Sri Panwa, Phuket",
+    "license": "Property photography / copyright holder",
+    "licenseUrl": "",
+    "dimensions": [
+      900,
+      506
+    ],
+    "photoAlt": "Кабинет Cool Spa в отеле Sri Panwa, Пхукет"
+  },
+  {
+    "id": 22,
+    "image": "assets/products/p22.webp",
+    "imageSourceUrl": "https://www.courthouse-hotel.com/wp-content/uploads/2022/05/Courthouse-Hotel-London-2-of-10.jpg",
+    "sourcePageUrl": "https://www.courthouse-hotel.com/cinema",
+    "imageNote": "Частный кинозал Courthouse Hotel, Лондон.",
+    "credit": "Courthouse Hotel London",
+    "license": "Property photography / copyright holder",
+    "licenseUrl": "",
+    "dimensions": [
+      900,
+      600
+    ],
+    "photoAlt": "Частный кинозал отеля Courthouse Hotel, Лондон"
+  },
+  {
+    "id": 23,
+    "image": "assets/products/p23.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Young_Serval.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Young_Serval.jpg",
+    "imageNote": "На фото молодой сервал.",
+    "credit": "Leekimbud",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "dimensions": [
+      600,
+      800
+    ],
+    "photoAlt": "Молодой сервал"
+  },
+  {
+    "id": 24,
+    "image": "assets/products/p24.webp",
+    "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Pomeranian_Pup.JPG/960px-Pomeranian_Pup.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Pomeranian_Pup.JPG",
+    "imageNote": "",
+    "credit": "André Lage Freitas",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "dimensions": [
+      900,
+      770
+    ],
+    "photoAlt": "Щенок померанского шпица"
+  },
+  {
+    "id": 25,
+    "image": "assets/products/p25.webp",
+    "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Golden_Retriever_Puppy_2012_03.jpg/960px-Golden_Retriever_Puppy_2012_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Golden_Retriever_Puppy_2012_03.jpg",
+    "imageNote": "",
+    "credit": "Johannnes89",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "dimensions": [
+      900,
+      675
+    ],
+    "photoAlt": "Щенок золотистого ретривера"
+  },
+  {
+    "id": 26,
+    "image": "assets/products/p26.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Ribeyes.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Ribeyes.jpeg",
+    "imageNote": "",
+    "credit": "Jon Sullivan",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "dimensions": [
+      800,
+      600
+    ],
+    "photoAlt": "Стейки рибай на гриле"
+  },
+  {
+    "id": 27,
+    "image": "assets/products/p27.webp",
+    "imageSourceUrl": "https://images.unsplash.com/photo-1519097000072-e44ffa116485?auto=format&fit=max&w=900&q=85",
+    "sourcePageUrl": "https://unsplash.com/photos/R_ZRouEm4xU",
+    "imageNote": "Настоящие тропические фрукты; состав корзины в игре условный.",
+    "credit": "HOTCHICKSING",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "dimensions": [
+      900,
+      600
+    ],
+    "photoAlt": "Корзина настоящих тропических фруктов"
+  },
+  {
+    "id": 28,
+    "image": "assets/products/p28.webp",
+    "imageSourceUrl": "https://istyle.hr/cdn/shop/files/StandardKit_1.jpg?v=1744183684&width=900",
+    "sourcePageUrl": "https://istyle.hr/products/starlink-standard-kit-white-grey-850049670180",
+    "imageNote": "",
+    "credit": "Starlink / iSTYLE",
+    "license": "Product photography / copyright holder",
+    "licenseUrl": "",
+    "dimensions": [
+      900,
+      900
+    ],
+    "photoAlt": "Комплект Starlink Standard: антенна и маршрутизатор"
+  },
+  {
+    "id": 29,
+    "image": "assets/products/p29.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/M_S_Expedition_in_Pl%C3%A9neau_Bay%2C_Antarctica_%286059331464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:M_S_Expedition_in_Pl%C3%A9neau_Bay,_Antarctica_(6059331464).jpg",
+    "imageNote": "Реальное экспедиционное судно у Антарктиды.",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "credit": "Liam Quinn from Canada",
+    "photoTitle": "File:M S Expedition in Pléneau Bay, Antarctica (6059331464).jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 30,
+    "image": "assets/products/p30.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Laptop_on_desk_book_stacks_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Laptop_on_desk_book_stacks_(Unsplash).jpg",
+    "imageNote": "Реальная фотография ноутбука; иллюстрация набора подписок на ИИ.",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "credit": "freddie marriage fredmarriage",
+    "photoTitle": "File:Laptop on desk book stacks (Unsplash).jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 31,
+    "image": "assets/products/p31.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Gears_4_The_Coalition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Gears_4_The_Coalition.jpg",
+    "imageNote": "Команда игровой студии The Coalition; иллюстрация разработки своей игры.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Microsoft Corporation",
+    "photoTitle": "File:Gears 4 The Coalition.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 32,
+    "image": "assets/products/p32.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Camera_set_-_Army_wives.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Camera_set_-_Army_wives.JPG",
+    "imageNote": "Реальная кинокамера на съёмочной площадке; иллюстрация создания фильма.",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "credit": "Katie Gieratz, U.S. Air Force",
+    "photoTitle": "File:Camera set - Army wives.JPG",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 33,
+    "image": "assets/products/p33.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/2024_Porsche_911_992_Carrera_GTS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:2024_Porsche_911_992_Carrera_GTS.jpg",
+    "imageNote": "",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Calreyn88",
+    "photoTitle": "File:2024 Porsche 911 992 Carrera GTS.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 34,
+    "image": "assets/products/p34.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Lamborghini_Revuelto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Revuelto.jpg",
+    "imageNote": "",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "江草慧至",
+    "photoTitle": "File:Lamborghini Revuelto.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 35,
+    "image": "assets/products/p35.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Lamborghini_Urus_SE_%2853878104939%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_SE_(53878104939).jpg",
+    "imageNote": "На фото Lamborghini Urus SE. SE и Performante — разные версии Urus.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "credit": "David Merrett from Daventry, England",
+    "photoTitle": "File:Lamborghini Urus SE (53878104939).jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 36,
+    "image": "assets/products/p36.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Ferrari_296_GTB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_296_GTB.jpg",
+    "imageNote": "",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "MrWalkr",
+    "photoTitle": "File:Ferrari 296 GTB.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 37,
+    "image": "assets/products/p37.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/STS-134_International_Space_Station_after_undocking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:STS-134_International_Space_Station_after_undocking.jpg",
+    "imageNote": "Реальная МКС; пункт «построить станцию» трактуется как орбитальная станция.",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "credit": "NASA",
+    "photoTitle": "File:STS-134 International Space Station after undocking.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 38,
+    "image": "assets/products/p38.webp",
+    "imageSourceUrl": "https://unsplash.com/photos/qCrKTET_09o",
+    "sourcePageUrl": "https://unsplash.com/photos/qCrKTET_09o",
+    "imageNote": "Фото футбольного стадиона; конкретный клуб не выбран.",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "credit": "Vienna Reyes"
+  },
+  {
+    "id": 39,
+    "image": "assets/products/p39.webp",
+    "imageSourceUrl": "https://unsplash.com/photos/kng-efkleT4",
+    "sourcePageUrl": "https://unsplash.com/photos/kng-efkleT4",
+    "imageNote": "Фото острова для иллюстрации покупки частного острова.",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "credit": "Ryan Geller"
+  },
+  {
+    "id": 40,
+    "image": "assets/products/p40.webp",
+    "imageSourceUrl": "https://unsplash.com/photos/6w_dYdazo20",
+    "sourcePageUrl": "https://unsplash.com/photos/6w_dYdazo20",
+    "imageNote": "Реальный частный самолёт; модель показана для иллюстрации.",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "credit": "Chris Leipelt"
+  },
+  {
+    "id": 41,
+    "image": "assets/products/p41.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Airbus_Helicopters_H160_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Airbus_Helicopters_H160_(cropped).jpg",
+    "imageNote": "На фото реальный Airbus H160; модель вертолёта показана для иллюстрации.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "credit": "Berg2",
+    "photoTitle": "File:Airbus Helicopters H160 (cropped).jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 42,
+    "image": "assets/products/p42.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Int%C3%A9rieur_Tokamak_WEST.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Int%C3%A9rieur_Tokamak_WEST.jpg",
+    "imageNote": "Реальный исследовательский токамак WEST; иллюстрация идеи частного термоядерного реактора.",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "credit": "Christophe Roux / IRFM",
+    "photoTitle": "File:Intérieur Tokamak WEST.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 43,
+    "image": "assets/products/p43.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Basketball_arena_match_sport_game_lakers_tribune_fans-1223638.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Basketball_arena_match_sport_game_lakers_tribune_fans-1223638.jpg",
+    "imageNote": "Реальный матч NBA на арене Lakers; конкретный клуб не выбран.",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "credit": "pxhere.com",
+    "photoTitle": "File:Basketball arena match sport game lakers tribune fans-1223638.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 44,
+    "image": "assets/products/p44.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sleeping_Beauty_Castle_Disneyland_Anaheim_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Sleeping_Beauty_Castle_Disneyland_Anaheim_2013.jpg",
+    "imageNote": "",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "credit": "Tuxyso",
+    "photoTitle": "File:Sleeping Beauty Castle Disneyland Anaheim 2013.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 45,
+    "image": "assets/products/p45.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Programmers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Programmers.jpg",
+    "imageNote": "Реальные программисты за работой; иллюстрация заказа приложения.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Lbronn",
+    "photoTitle": "File:Programmers.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 46,
+    "image": "assets/products/p46.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Planting_trees.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Planting_trees.jpg",
+    "imageNote": "Реальная посадка деревьев; фотография иллюстрирует проект, а не заявленные 100 000 деревьев.",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "credit": "John Englart",
+    "photoTitle": "File:Planting trees.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 47,
+    "image": "assets/products/p47.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Mars_landscape_image_taken_by_Ingenuity_high-res_camera_on_Sol_772_%2852856929061%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Mars_landscape_image_taken_by_Ingenuity_high-res_camera_on_Sol_772_(52856929061).png",
+    "imageNote": "Реальный снимок Марса NASA/JPL-Caltech; обитаемой колонии на фотографии нет.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "credit": "Pierre Markuse",
+    "photoTitle": "File:Mars landscape image taken by Ingenuity high-res camera on Sol 772 (52856929061).png",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 48,
+    "image": "assets/products/p48.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Azzam%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Azzam(crop).jpg",
+    "imageNote": "Реальная гигантская суперъяхта Azzam; модель показана для иллюстрации.",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "credit": "|date=2014-11-29 14:23:58\n|source=Own work\n\n|author=Farid mernissi",
+    "photoTitle": "File:Azzam(crop).jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 49,
+    "image": "assets/products/p49.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/2022_wc_final_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:2022_wc_final_08.jpg",
+    "imageNote": "Реальный стадион Lusail финала ЧМ-2022; иллюстрация VIP-билета.",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "credit": "Sebas (YouTube username)",
+    "photoTitle": "File:2022 wc final 08.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 50,
+    "image": "assets/products/p50.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+    "imageNote": "Реальный гуманоидный робот Halodi Robotics; конкретная модель личного робота не выбрана.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Nicholas-halodi",
+    "photoTitle": "File:Halodi Robotics' Perception Engineer With a Humanoid Collaborative Robot.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 51,
+    "image": "assets/products/p51.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/America_%28Cattelan%29_side_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:America_(Cattelan)_side_view.jpg",
+    "imageNote": "Реальный золотой унитаз America, произведение Маурицио Каттелана.",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "credit": "MossAlbatross",
+    "photoTitle": "File:America (Cattelan) side view.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 52,
+    "image": "assets/products/p52.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Clouds_disappearing_into_a_darkening_blue_sky_over_an_airplane_wing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Clouds_disappearing_into_a_darkening_blue_sky_over_an_airplane_wing.jpg",
+    "imageNote": "Реальная фотография из самолёта; иллюстрация кругосветного путешествия.",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "credit": "Shocksingularity",
+    "photoTitle": "File:Clouds disappearing into a darkening blue sky over an airplane wing.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 53,
+    "image": "assets/products/p53.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Georgia_Aquarium_-_Ocean_Voyager_Tunnel_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Georgia_Aquarium_-_Ocean_Voyager_Tunnel_Jan_2006.jpg",
+    "imageNote": "Реальный океанариум Georgia Aquarium; иллюстрация строительства собственного океанариума.",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "credit": "Diliff",
+    "photoTitle": "File:Georgia Aquarium - Ocean Voyager Tunnel Jan 2006.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 54,
+    "image": "assets/products/p54.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Studio_Ghibli_studio_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Studio_Ghibli_studio_1.jpg",
+    "imageNote": "Реальное здание аниме-студии Studio Ghibli; иллюстрация создания своей студии.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Akonnchiroll",
+    "photoTitle": "File:Studio Ghibli studio 1.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 55,
+    "image": "assets/products/p55.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Boiled_lobster_with_assorted_vegetables.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Boiled_lobster_with_assorted_vegetables.jpg",
+    "imageNote": "",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "26Isabella",
+    "photoTitle": "File:Boiled lobster with assorted vegetables.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  },
+  {
+    "id": 56,
+    "image": "assets/products/p56.webp",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Law_library_at_University_of_Michigan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Law_library_at_University_of_Michigan.jpg",
+    "imageNote": "Реальная юридическая библиотека Университета Мичигана; иллюстрация услуг юриста.",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "credit": "Cadop",
+    "photoTitle": "File:Law library at University of Michigan.jpg",
+    "changes": "Resized to maximum 900 px and encoded as WebP."
+  }
+]

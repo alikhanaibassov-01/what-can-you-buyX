@@ -1,0 +1,13 @@
+{
+  "name": "what-can-you-buy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A browser-local money spending game. Zero dependencies.",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs",
+    "check": "node --check app.js && node --check catalog.js && node --check photos.js && node --check server.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
